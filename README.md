@@ -38,3 +38,14 @@ The Slide materials are produced and shared as we go.
 | 12 | 2026-05-08 | Model-Based RL | Chapter 8.4, 17 | [Chapter8-Function_Approximation.pdf](chapter_slides/Chapter8-Function_Approximation.pdf) |
 | 13 | 2026-05-15 | Exploration vs. Exploitation | Chapter 2 | [Chapter2-Multi-armed_Bandit_Fundamentals.pdf](chapter_slides/Chapter2-Multi-armed_Bandit_Fundamentals.pdf) |
 | 14 | 2026-05-22 | Review & Advanced Topics | - | - |
+
+## How to use this repo
+
+1. Clone the repo
+2. Read the slides for the week
+3. Read the corresponding chapter in the textbook
+4. Discuss in the study group
+
+## Code / Resources
+
+- [Multi-arm Bandit Testbed](https://github.com/balajipcbe/Multi-armedbanditTestbed)
