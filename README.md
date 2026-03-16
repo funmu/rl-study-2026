@@ -26,18 +26,20 @@ The Slide materials are produced and shared as we go.
 |------|------|-------|---------|--------|
 | 1 | 2026-02-20 | Introduction to RL | Chapter 1 | - |
 | 2 | 2026-02-27 | Multi-armed Bandits | Chapter 2 | [Chapter2-Multi-armed_Bandit_Fundamentals.pdf](chapter_slides/Chapter2-Multi-armed_Bandit_Fundamentals.pdf) |
-| 3 | 2026-03-06 | Finite MDPs | Chapter 3 | [Chapter3-Finite_MDPs.pdf](chapter_slides/Chapter3-Finite_MDPs.pdf) |
-| 4 | 2026-03-13 | Dynamic Programming | Chapter 4 | Coming Soon |
-| 5 | 2026-03-20 | Monte Carlo Methods | Chapter 5 | Coming Soon |
-| 6 | 2026-03-27 | Temporal-Difference Learning | Chapter 6 | Coming Soon |
-| 7 | 2026-04-03 | Eligibility Traces | Chapter 7 | Coming Soon |
-| 8 | 2026-04-10 | Function Approximation | Chapter 8 | Coming Soon |
-| 9 | 2026-04-17 | Deep Q-Networks | Chapter 11 | Coming Soon |
-| 10 | 2026-04-24 | Policy Gradient Methods | Chapter 13 | Coming Soon |
-| 11 | 2026-05-01 | Actor-Critic Methods | Chapter 13.5 | Coming Soon |
-| 12 | 2026-05-08 | Model-Based RL | Chapter 8.4, 17 | Coming Soon |
-| 13 | 2026-05-15 | Exploration vs. Exploitation | Chapter 2 | Coming Soon |
-| 14 | 2026-05-22 | Review & Advanced Topics | - | Coming Soon |
+| 3 | 2026-03-06 | Finite MDPs | Chapter 3 | explore [Chapter3-Finite_MDPs.pdf](chapter_slides/Chapter3-Finite_MDPs.pdf) |
+| 3 | 2026-03-13 | Finite MDPs | Chapter 3 | first part of [Chapter3-Finite_MDPs.pdf](chapter_slides/Chapter3-Finite_MDPs.pdf) |
+| 3 | 2026-03-20 | Finite MDPs | Chapter 3 | second part of [Chapter3-Finite_MDPs.pdf](chapter_slides/Chapter3-Finite_MDPs.pdf) |
+| 4 | 2026-03-27 | Dynamic Programming | Chapter 4 | Coming Soon |
+| 5 | 2026-04-03 | Monte Carlo Methods | Chapter 5 | Coming Soon |
+| 6 | 2026-04-10 | Temporal-Difference Learning | Chapter 6 | Coming Soon |
+| 7 | 2026-04-17 | Eligibility Traces | Chapter 7 | Coming Soon |
+| 8 | 2026-04-24 | Function Approximation | Chapter 8 | Coming Soon |
+| 9 | 2026-05-01 | Deep Q-Networks | Chapter 11 | Coming Soon |
+| 10 | 2026-05-08 | Policy Gradient Methods | Chapter 13 | Coming Soon |
+| 11 | 2026-05-15 | Actor-Critic Methods | Chapter 13.5 | Coming Soon |
+| 12 | 2026-05-22 | Model-Based RL | Chapter 8.4, 17 | Coming Soon |
+| 13 | 2026-05-29 | Exploration vs. Exploitation | Chapter 2 | Coming Soon |
+| 14 | 2026-06-05 | Review & Advanced Topics | - | Coming Soon |
 
 ## How to use this repo
 
@@ -48,4 +50,5 @@ The Slide materials are produced and shared as we go.
 
 ## Code / Resources
 
-- [Multi-arm Bandit Testbed](https://github.com/balajipcbe/Multi-armedbanditTestbed)
+- [Multi-arm Bandit Testbed](https://github.com/balajipcbe/Multi-armedbanditTestbed) - pyhthon code for explornig multi-armed bandits
+- [Multi-arm Bandid Simulation](https://comify.art/blog/interactive-multi-armed-bandit-testbed) - interactive playground for the MAB based on chapter 2 algorithms.
