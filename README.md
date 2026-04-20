@@ -39,14 +39,36 @@ Recordings : https://drive.google.com/drive/folders/1MJqoLo-s21POUhTL_-raBUFd4q5
 ### Chapter Slides
 The following slides provide detailed overviews and summaries for each chapter:
 
+- **Chapter 1: Introduction**
+  - [Chapter 1 Discussion on Feb 20, 2026](https://drive.google.com/file/d/1XjYPgcqE5lbqTEHY3VByRFHc2-fHmHHV/view?usp=share_link)
+  - [Chapter 1 Discussion Notes on Feb 20, 2026](https://drive.google.com/file/d/13vBz5EoYywM-TTibPktXW_ssovFoZbO0F1bxNmEPeF0/view?usp=share_link)
+
 - **Chapter 2: Multi-armed Bandit Fundamentals**
   - [Chapter2-Multi-armed_Bandit_Fundamentals.pdf](chapter_slides/Chapter2-Multi-armed_Bandit_Fundamentals.pdf)
+  - [Chapter 2 Discussion on Feb 27, 2026](https://drive.google.com/file/d/1I0U5JUgO_TLbjqQP8nOdSf2NSDTQml8s/view?usp=share_link)
+  - [Chapter 2 Discussion Notes on Feb 27, 2026](https://drive.google.com/file/d/1F0mWGM4qHhYs0Xw5LsviqVPjB1IIe3uGrLyFhszLop0/view?usp=share_link)
+
 - **Chapter 3: Finite MDPs**
   - [Chapter3-Finite_MDPs.pdf](chapter_slides/Chapter3-Finite_MDPs.pdf)
+  - [Session 3 Discussion on Mar 06, 2026](https://drive.google.com/file/d/1dNUgHkyjdAmY8t1foHeWNjN0XDbtwq4q/view?usp=share_link)
+  - [Session 3 Discussion Notes on Mar 06, 2026](https://drive.google.com/file/d/1tmQM_2kwn3WHKf0WtbLG1hutgi6ezN5W-xjy0OH4sFg/view?usp=share_link)
+  - [Chapter 3 Part 1 Discussion on Mar 13, 2026](https://drive.google.com/file/d/1I5_WLt_9WtIn4tCa4oBG1YzqFlJBj-2M/view?usp=share_link)
+  - [Chapter 3 Part 1 Discussion Notes on Mar 13, 2026](https://drive.google.com/file/d/11DiqVFqGaTJAlfWBqfNO0nsTzGy45bIX94ZA8fduNhE/view?usp=share_link)
+  - [Chapter 3 Part 2 Discussion on Mar 20, 2026](https://drive.google.com/file/d/1EaqhpQ5H8FhmdG1FGZaFM1_nreHWuQ2o/view?usp=share_link)
+  - [Chapter 3 Part 2 Discussion Notes on Mar 20, 2026](https://drive.google.com/file/d/1R6AHF3OeAzF3tX9TXgTRRb15Peucq_vAkz8F26sjDUA/view?usp=share_link)
+
 - **Chapter 4: Dynamic Programming**
   - [Chapter4-Dynamic_Programming.pdf](chapter_slides/Chapter4-Dynamic_Programming.pdf)
+  - [Chapter 4 Discussion on Mar 27, 2026](https://drive.google.com/file/d/1lqWOSCkGyQeati1AUVS3eP6DUAqMlSb_/view?usp=share_link)
+  - [Chapter 4 Discussion Notes on Mar 27, 2026](https://drive.google.com/file/d/1qi-E64MgiF4xVlsEtfqtMfltrFsoiWb4ayf-uSVxuj4/view?usp=share_link)
+  - [Chapter 4 Demos Discussion on Apr 03, 2026](https://drive.google.com/file/d/1Idntc4eTvuv3d9fcwj889ava8438jEkR/view?usp=share_link)
+  - [Chapter 4 Demos Discussion Notes on Apr 03, 2026](https://drive.google.com/file/d/1MEb_6peDv4xXyyA4xXxlJ_t5x3dErcA7epiXnfhq2BQ/view?usp=share_link)
+
 - **Chapter 5: Monte Carlo Methods**
   - [Chapter5-Monte_Carlo_Methods.pdf](chapter_slides/Chapter5-Monte_Carlo_Methods.pdf)
+  - [Chapter 5 Discussion on Apr 10, 2026](https://drive.google.com/file/d/1hcvXzVlGb2FgXf2Cn-vSHJkq4aZ7Xfp9/view?usp=share_link)
+  - [Chapter 5 Discussion Notes on Apr 10, 2026](https://drive.google.com/file/d/1x6BfH09GPwQL8zJkXkd1HfzsUE1UuV24Pm9c6argdBo/view?usp=share_link)
+
 
 ## Resources
 - [Reinforcement Learning: An Introduction (Sutton & Barto)](https://www.andrew.cmu.edu/course/10-703/textbook/BartoSutton.pdf)
