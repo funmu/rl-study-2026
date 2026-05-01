@@ -1,3 +1,8 @@
 
 # ignore intermediate items
 misc-slides/
+.DS_Store
+/samples/blackjack_simulator/dist
+/samples/blackjack_simulator/node_modules
+/samples/Multi-armed-bandit-Simulator/dist
+/samples/Multi-armed-bandit-Simulator/node_modules
