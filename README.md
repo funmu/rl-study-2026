@@ -105,3 +105,5 @@ The Slide materials are produced and shared as we go.
 
 - [Multi-arm Bandit Testbed](https://github.com/balajipcbe/Multi-armedbanditTestbed) - pyhthon code for explornig multi-armed bandits
 - [Multi-arm Bandid Simulation](https://comify.art/blog/interactive-multi-armed-bandit-testbed) - interactive playground for the MAB based on chapter 2 algorithms.
+- [Multi-Armed Bandit Simulator (React App)](samples/Multi-armed-bandit-Simulator) - Reusable interactive simulator testbed framework.
+- [Blackjack Simulator (React App)](samples/blackjack_simulator) - Interactive Monte Carlo simulator built on the testbed framework.
